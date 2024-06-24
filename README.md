@@ -4,9 +4,9 @@ The link is here:
 
 Dataset Link: https://drive.google.com/drive/folders/1WyNfnsrQ9wE5FX5tiB6NRAJgVMsY86pu?usp=drive_link
 
-Tableau Dashboard Link: https://public.tableau.com/app/profile/ivan.septian/viz/Ivan_RS_Capstone/Dashboard1?publish=yes
+Tableau Dashboard Link: [https://public.tableau.com/app/profile/ivan.septian/viz/Ivan_RS_Capstone/Dashboard1?publish=yes](https://public.tableau.com/app/profile/ivan.robi.septian/viz/Ivan_RS_Capstone_17180033040240/Dashboard1?publish=yes)
 
-Tableau Story link: https://public.tableau.com/app/profile/ivan.septian/viz/Ivan_RS_Capstone/Story1?publish=yes
+Tableau Story link: [https://public.tableau.com/app/profile/ivan.septian/viz/Ivan_RS_Capstone/Story1?publish=yes](https://public.tableau.com/app/profile/ivan.robi.septian/viz/Ivan_RS_Capstone_17180033040240/RealSotry?publish=yes)
 
 
 # CAPSTONE-2
