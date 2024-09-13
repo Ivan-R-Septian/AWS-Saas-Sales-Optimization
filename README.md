@@ -9,9 +9,8 @@ Tableau Dashboard Link: [https://public.tableau.com/app/profile/ivan.septian/viz
 Tableau Story link: [https://public.tableau.com/app/profile/ivan.septian/viz/Ivan_RS_Capstone/Story1?publish=yes](https://public.tableau.com/app/profile/ivan.robi.septian/viz/Ivan_RS_Capstone_17180033040240/RealSotry?publish=yes)
 
 
-# CAPSTONE-2
-EDA AWS Saas Sales
-by Ivan Robi Septian
+# Project Overview
+Analyzed AWS SaaS data to boost sales by identifying products that respond differently to discounts across countries. Developed targeted strategies, increasing sales by offering discounts only to price-sensitive products while reducing them for insensitive ones.
 
 **AWS BACKGROUND**
 ---
